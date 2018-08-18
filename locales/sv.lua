@@ -23,7 +23,7 @@ Locales['sv'] = {
   -- Service
   ['service_max'] = 'du kan inte gå tjänst, poliser i tjänst: %s/%s',
   ['service_not'] = 'du är inte i tjänst! Byt om för att gå in i tjänst.',
-  ['service_anonunce'] = 'tjänsteinformation',
+  ['service_announce'] = 'tjänsteinformation',
   ['service_in'] = 'du deltog i tjänst, välkommen!',
   ['service_in_announce'] = 'operatör ~y~%s~s~ har deltagit tjänst!',
   ['service_out'] = 'du har lämnat tjänst.',
