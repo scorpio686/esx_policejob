@@ -165,7 +165,7 @@ function OpenCloakroomMenu()
 						playerInService = false
 
 						local notification = {
-							title    = _U('service_anonunce'),
+							title    = _U('service_announce'),
 							subject  = '',
 							msg      = _U('service_out_announce', GetPlayerName(PlayerId())),
 							iconType = 1
@@ -197,7 +197,7 @@ function OpenCloakroomMenu()
 							playerInService = true
 
 							local notification = {
-								title    = _U('service_anonunce'),
+								title    = _U('service_announce'),
 								subject  = '',
 								msg      = _U('service_in_announce', GetPlayerName(PlayerId())),
 								iconType = 1
